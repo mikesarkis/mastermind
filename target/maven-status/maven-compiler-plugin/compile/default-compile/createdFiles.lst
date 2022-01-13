@@ -1,0 +1,13 @@
+com\mycompany\guessthenumber\data\GameDatabaseDao$GameMapper.class
+com\mycompany\guessthenumber\models\Game.class
+com\mycompany\guessthenumber\controllers\guessthenumberExceptionHandler.class
+com\mycompany\guessthenumber\service\GameServiceLayerImpl.class
+com\mycompany\guessthenumber\App.class
+com\mycompany\guessthenumber\data\GameDatabaseDao.class
+com\mycompany\guessthenumber\controllers\GameControlles.class
+com\mycompany\guessthenumber\data\GameDatabaseDao$RoundMapper.class
+com\mycompany\guessthenumber\data\GameDao.class
+com\mycompany\guessthenumber\service\GameServiceLayer.class
+com\mycompany\guessthenumber\data\GamoDaoImpl.class
+com\mycompany\guessthenumber\controllers\Error.class
+com\mycompany\guessthenumber\models\Round.class

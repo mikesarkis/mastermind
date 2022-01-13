@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.guessthenumber.data.GameDatabaseDaoTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 0.105 s <<< FAILURE! - in com.mycompany.guessthenumber.data.GameDatabaseDaoTest
+testdeletbyid(com.mycompany.guessthenumber.data.GameDatabaseDaoTest)  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mycompany.guessthenumber.data.GameDatabaseDaoTest.testdeletbyid(GameDatabaseDaoTest.java:126)
+
+testcreategame(com.mycompany.guessthenumber.data.GameDatabaseDaoTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mycompany.guessthenumber.data.GameDatabaseDaoTest.testcreategame(GameDatabaseDaoTest.java:65)
+
+testaddround(com.mycompany.guessthenumber.data.GameDatabaseDaoTest)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mycompany.guessthenumber.data.GameDatabaseDaoTest.testaddround(GameDatabaseDaoTest.java:112)
+
+testgetanswer(com.mycompany.guessthenumber.data.GameDatabaseDaoTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mycompany.guessthenumber.data.GameDatabaseDaoTest.testgetanswer(GameDatabaseDaoTest.java:81)
+
+testupdatetegame(com.mycompany.guessthenumber.data.GameDatabaseDaoTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mycompany.guessthenumber.data.GameDatabaseDaoTest.testupdatetegame(GameDatabaseDaoTest.java:75)
+
+testgetallgames(com.mycompany.guessthenumber.data.GameDatabaseDaoTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mycompany.guessthenumber.data.GameDatabaseDaoTest.testgetallgames(GameDatabaseDaoTest.java:91)
+
